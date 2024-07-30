@@ -19,6 +19,17 @@ In this project, the following design patterns and practices were used:
 <br> Command Pattern (with Undo functionality)
 <br> State Machine
 
+# Unit Testing
+This project provides unit testing with Zenject for the following functionalities:
+* Win
+* Lose
+* Draw
+* Hint
+* Undo
+
+# Asset bundle creator
+This project includes a custom editor window designed to streamline asset bundle creation. The editor provides an intuitive interface for quickly creating asset bundles and saving them to the StreamingAssets folder.
+
 # Features
 * Game Modes:
    - Player vs Player: Play with a friend in the local multiplayer mode.
