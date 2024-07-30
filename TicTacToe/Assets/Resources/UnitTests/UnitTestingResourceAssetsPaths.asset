@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba949e0481c547ecb23df89c2eab3e4c, type: 3}
+  m_Name: UnitTestingResourceAssetsPaths
+  m_EditorClassIdentifier: 
+  AssetDowloadingCurtainPath: UI/Prefabs/AssetDownloadLoadingCurtain
+  SceneLoadingCurtain: UI/Prefabs/SceneLoadingCurtain
+  UIRootPath: UI/Prefabs/UIRoot
+  GridPanelPath: UI/Prefabs/GridPanel
+  GridCellVisualPath: UI/Prefabs/GridCellView
+  MainMenuVisualPath: UI/Prefabs/MainMenu
+  EndGameVisualPath: UI/Prefabs/EndGameWindow
+  MainHudVisualPath: UI/Prefabs/MainHud
+  DecorationVisualPath: UI/Prefabs/Decoration
