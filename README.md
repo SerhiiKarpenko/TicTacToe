@@ -10,14 +10,13 @@ This project uses a Service-Model based architecture with Dependency Injection (
 
 # Patterns
 In this project, the following design patterns and practices were used:
-
-<br> Dependency Injection (DI): Implemented using Zenject.
-<br> Entry Point
-<br> Model-View-Presenter (MVP)
-<br> Strategy Pattern 
-<br> Factory Pattern
-<br> Command Pattern (with Undo functionality)
-<br> State Machine
+* Dependency Injection (DI): Implemented using Zenject.
+* Entry Point
+* Model-View-Presenter (MVP)
+* Strategy Pattern 
+* Factory Pattern
+* Command Pattern (with Undo functionality)
+* State Machine
 
 # Unit Testing
 This project provides unit testing with Zenject for the following functionalities:
